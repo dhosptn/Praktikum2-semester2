@@ -238,7 +238,7 @@ and jenis_kelamin='Perempuan';
 
 _Contoh :_
 
-`INSERT INTO biodata (nim, nama, alamat) VALUE ('1234','Uyun','Bekasi');`
+`INSERT INTO biodata (nim, nama, alamat) VALUE ('312310447','Ahmad Ridho Septian','Jalan Baru No. 456');`
 
 ![alt text](Screenshot/21.png)
 
@@ -258,7 +258,7 @@ _Contoh :_
 
 _Contoh :_
 
-`UPDATE biodata SET nama='Nurul', alamat='Setu' WHERE nim='1234';`
+`UPDATE biodata SET nama='Nurul', alamat='Bekasi' WHERE nim='312310447';`
 
 ![alt text](Screenshot/23.png)
 
@@ -268,7 +268,7 @@ _Contoh :_
 
 _Contoh :_
 
-`DELETE FROM biodata WHERE nim=‘1234’`
+`DELETE FROM biodata WHERE nim=‘312310447’`
 
 ![alt text](Screenshot/24.png)
 
